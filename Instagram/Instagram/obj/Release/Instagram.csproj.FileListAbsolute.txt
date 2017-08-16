@@ -1,0 +1,15 @@
+C:\Users\asfen\Desktop\GitHub Instagram ANdroid\Instagram\Instagram\bin\Release\Instagram.dll
+C:\Users\asfen\Desktop\GitHub Instagram ANdroid\Instagram\Instagram\bin\Release\Instagram.pdb
+C:\Users\asfen\Desktop\GitHub Instagram ANdroid\Instagram\Instagram\bin\Release\Instagram.Instagram.apk
+C:\Users\asfen\Desktop\GitHub Instagram ANdroid\Instagram\Instagram\bin\Release\Instagram.Instagram-Signed.apk
+C:\Users\asfen\Desktop\GitHub Instagram ANdroid\Instagram\Instagram\obj\Release\Instagram.csprojResolveAssemblyReference.cache
+C:\Users\asfen\Desktop\GitHub Instagram ANdroid\Instagram\Instagram\obj\Release\Instagram.dll
+C:\Users\asfen\Desktop\GitHub Instagram ANdroid\Instagram\Instagram\obj\Release\Instagram.pdb
+C:\Users\asfen\Desktop\GitHub Instagram ANdroid\Instagram\Instagram\obj\Release\android\bin\Instagram.Instagram.apk
+C:\Users\asfen\Desktop\GitHub Instagram ANdroid\Instagram\Instagram\obj\Release\res\layout\main.xml
+C:\Users\asfen\Desktop\GitHub Instagram ANdroid\Instagram\Instagram\obj\Release\res\values\strings.xml
+C:\Users\asfen\Desktop\GitHub Instagram ANdroid\Instagram\Instagram\obj\Release\res\drawable\icon.png
+C:\Users\asfen\Desktop\GitHub Instagram ANdroid\Instagram\Instagram\obj\Release\R.cs.flag
+C:\Users\asfen\Desktop\GitHub Instagram ANdroid\Instagram\Instagram\obj\Release\uploadflags.txt
+C:\Users\asfen\Desktop\GitHub Instagram ANdroid\Instagram\Instagram\bin\Release\Instagram.dll.mdb
+C:\Users\asfen\Desktop\GitHub Instagram ANdroid\Instagram\Instagram\obj\Release\android\assets\Instagram.dll.mdb

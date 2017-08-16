@@ -1,0 +1,4 @@
+Instagram.MainActivity, Instagram;md560f8cb8d9eee8681e08aed3b89cc40dd.MainActivity
+Instagram.MainActivity, Instagram, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md560f8cb8d9eee8681e08aed3b89cc40dd.MainActivity
+Instagram.MainActivity;md560f8cb8d9eee8681e08aed3b89cc40dd.MainActivity
+instagram.MainActivity;md560f8cb8d9eee8681e08aed3b89cc40dd.MainActivity
